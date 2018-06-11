@@ -1,0 +1,29 @@
+
+
+
+
+==============================================
+				   Airplane
+==============================================
+show_seating()        |           Seat
+describe yourself     |
+    how many fc Rows  |
+    how many fc Cols  |
+    how many ec Rows  |
+    how many ec Cols  |
+examine a seat        |
+
+
+
+==============================================
+					Seat
+==============================================
+describe yourself     |
+    what class        |
+    what Row          |
+    what Col          |
+    what Position     |
+        window        |
+        center        |
+        aisle         |
+am I available?       |
